@@ -1,0 +1,22 @@
+{
+    "name": "drupal/media_thumbnails_mapper",
+    "description": "Generate custom thumbnails for media entities.",
+    "type": "drupal-module",
+    "homepage": "https://drupal.org/project/media_thumbnails_mapper",
+    "authors": [
+        {
+            "name": "Howard Thompson (howardt)",
+            "homepage": "https://www.drupal.org/u/howardt",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://drupal.org/project/issues/media_thumbnails_mapper",
+        "source": "https://cgit.drupalcode.org/media_thumbnails_mapper"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/media_thumbnails": "^1.0"
+    }
+}
